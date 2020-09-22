@@ -1,0 +1,106 @@
+  Q. Why do I sometimes see yellow arrows, swords, or waiting signs on 
+     certain monsters and not others?
+
+  A. If you see those symbols on a monster it means that monster has a lower
+     COMBAT score than you do. You are basically seeing the monster's 
+     intended next move. 
+
+     Since you know what the weaker monsters are going to do next, you can
+     choose your action (move, swing sword, cast spell, or do nothing) 
+     carefully, taking advantage of this insight.
+
+     You also get to act before any weaker monster gets to act. This gives 
+     you a double advantage over weaker enemies. 
+
+     Of course, the opposite is also true: you can't see a stronger 
+     monster's intended next move, and a stronger monster will always get 
+     to act before you get to act.
+END
+  Q. I don't get combat, what decides if my sword hits an enemy or not?
+
+  A. This game is turn-based but does not rely on random numbers or dice 
+     rolls to resolve combat. 
+
+     If an enemy is within a sword's strike range (the 4 adjacent squares 
+     in all cardinal directions: N, S, E, W, but not diagonally) then you 
+     will always hit them. This is true when a monster attacks you as well.
+
+     You need to be strategic when fighting, taking advantage of your 
+     ability to "read" a weaker opponent's next move.
+
+     As far as stronger monsters go, the best advice is to avoid them 
+     until your COMBAT score increases high enough.
+END
+  Q. How many levels are there? How do I win this game?
+
+     There are a total of 8 levels, each one increasing in size, number of
+     monsters roaming around, and number of keys to collect.
+
+     Each level has an EXIT which is initially locked. To unlock the EXIT,
+     you have to collect a certain number of keys, and slay a certain 
+     number of monsters.
+
+     All you need to do is get ONE member of your party through the EXIT 
+     on level 8 to "win" the game, though you will be given a SCORE
+     whenever your game ends, regardless of what level you are currently on.
+
+     The score is calculated as follows:
+
+           (# monsters slain + # keys collected) x (dungeon level)
+
+     If you were to collect every key and kill every monster in the game, 
+     as well as make it to the level 8 EXIT, your score would be:
+
+           3872 (a perfect score)
+END
+  Q. One of my characters is trapped in a section of the dungeon and I have
+     no way of reaching him. Is that it? Do I have to start the game over?
+
+  A. Its possible to have no characters left that have a Crumble Wall
+     spell, and thus no way to get out of a section of the dungeon that is
+     cut off from the main section (where the EXIT square is.)
+
+     Because of this, there is a "self destruct" button you can press as an
+     action for that character who is trapped. That character will instantly
+     die:
+
+              Press (i) to instantly kill a player who is trapped
+
+     You will be prompted with a 'Please Confirm' message to prevent 
+     killing off one of your party members accidentally!
+END
+  Q. The blinking yellow text is annoying. I feel like I'm using one of 
+     those old American Airlines ticket-reservation computer terminals from
+     the 1970s.
+
+  A. That's there mostly to help out new players. I felt that without it, 
+     it wasn't clear what gameplay options you had available at any given 
+     time.
+
+     But I agree, it gets annoying after a while. Press 'B' while playing to
+     turn the blinking text feature on or off.
+END
+  Q. Is this the full game? There's not a lot of content here.
+
+  A. I have a long list of features and new gameplay elements I would love 
+     to include in a second version of this game!
+
+     If you'd like to show your support you can go to the game's website:
+
+
+
+                      http://monstrosity.fireheadfred.com                    
+
+    
+
+
+
+
+
+
+
+
+
+ 
+     Thanks very much for playing!
+FINAL_END

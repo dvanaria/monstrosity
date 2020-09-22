@@ -1,0 +1,28 @@
+
+
+                                * Monstrosity *
+
+                    (a turn-based, fantasy adventure game)                         
+
+
+                      Version Date:  Dec 29, 2015
+              Programming Language:  Python 3.4.3
+                      Game Library:  Pygame 1.9.2a0            
+                     Codebase Size:  2494 LOC (121,470 bytes)
+
+                        Resolution:  800 x 600 pixels
+                            Colors:  216
+                         Text Grid:  80 x 30 characters
+                              Font:  TerminusBold.ttf, 20 pt
+                             Sound:  16-bit (made with SFXR)
+                             Music:  Tom Murphy (www.cs.cmu.edu/~tom7)
+
+                        Created By:  Darron Vanaria
+                             Email:  dvanaria@gmail.com
+                      Game Website:  monstrosity.fireheadfred.com
+
+
+                                                          [N] for New Game
+          
+                                                          [Q] to Quit Program
+FINAL_END
